@@ -26,3 +26,4 @@
 #import <OresmeKit/OKChart.h>
 #import <OresmeKit/OKSeries.h>
 #import <OresmeKit/OKLineChart.h>
+#import <OresmeKit/OKPieChart.h>
