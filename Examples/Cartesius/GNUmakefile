@@ -16,7 +16,7 @@ include $(GNUSTEP_MAKEFILES)/common.make
 VERSION = 0.1
 PACKAGE_NAME = Cartesius
 APP_NAME = Cartesius
-Cartesius_APPLICATION_ICON = 
+Cartesius_APPLICATION_ICON = Cartesius.png
 
 
 #
@@ -28,6 +28,7 @@ Cartesius_LIBRARIES_DEPEND_UPON += -lOresmeKit
 # Resource files
 #
 Cartesius_RESOURCE_FILES = \
+Resources/Cartesius.png \
 Resources/Cartesius.gorm \
 
 

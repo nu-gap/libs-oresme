@@ -1,0 +1,22 @@
+# GNUstep build products
+obj/
+derived_src/
+*.app/
+*.framework/
+
+# Xcode build products and per-user settings
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.pbxuser
+*.mode1
+*.mode1v3
+*.mode2v3
+
+# Editor backups and macOS metadata
+*~
+*.swp
+*.swo
+.DS_Store
+._*

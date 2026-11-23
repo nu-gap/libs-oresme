@@ -1,5 +1,5 @@
 {
-    APPLICATIONICON = "";
+    APPLICATIONICON = "Charter.png";
     "APP_DOCUMENT_BASED" = NO;
     "APP_TYPE" = GORM;
     "BUILDER_TARGETS" = (
@@ -24,6 +24,7 @@
 	"AppController.h"
     );
     IMAGES = (
+        "Resources/Charter.png"
     );
     INSTALLDIR = "$(HOME)/GNUstep";
     INTERFACES = (

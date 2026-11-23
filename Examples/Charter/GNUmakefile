@@ -16,7 +16,7 @@ include $(GNUSTEP_MAKEFILES)/common.make
 VERSION = 0.1
 PACKAGE_NAME = Charter
 APP_NAME = Charter
-Charter_APPLICATION_ICON = 
+Charter_APPLICATION_ICON = Charter.png
 
 
 #
@@ -28,6 +28,7 @@ Charter_LIBRARIES_DEPEND_UPON += -lOresmeKit
 # Resource files
 #
 Charter_RESOURCE_FILES = \
+Resources/Charter.png \
 Resources/Charter.gorm \
 
 

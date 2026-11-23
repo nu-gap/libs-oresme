@@ -1,5 +1,5 @@
 {
-    APPLICATIONICON = "";
+    APPLICATIONICON = "Cartesius.png";
     "APP_DOCUMENT_BASED" = NO;
     "APP_TYPE" = GORM;
     "BUILDER_TARGETS" = (
@@ -24,6 +24,7 @@
 	"AppController.h"
     );
     IMAGES = (
+        "Resources/Cartesius.png"
     );
     INSTALLDIR = "$(HOME)/GNUstep";
     INTERFACES = (
